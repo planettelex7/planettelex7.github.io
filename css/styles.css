@@ -1,0 +1,127 @@
+body {
+	background: linear-gradient(#FFFFFF, #96cedf);
+	background: -moz-linear-gradient(#FFFFFF, #96cedf);
+	background: -o-linear-gradient(#FFFFFF, #96cedf);
+	background: -webkit-linear-gradient(#FFFFFF, #96cedf);
+	background-attachment: fixed;
+}
+
+h1 {
+	text-align: center;
+	font-family: Monaco, monospace;
+}
+
+nav {
+	text-align: center;
+}
+
+nav li {
+	list-style-type: none;
+	display: inline;
+	background-color: #54a1cf;
+	border-radius: 0em;
+	margin-left: 0;
+	margin-right: 0;
+	padding: 1em;
+	width: 20%;
+}
+
+nav li a {
+	text-decoration: none;
+	color: #FFFFFF;
+	font-family: Monaco, monospace;
+}
+
+nav li a:hover {
+	color: #cacfdb;
+}
+
+nav ul {
+	padding: 0;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.nav1 {
+	border-radius: 1em 0 0 1em;
+}
+
+.nav2 {
+	border-radius: 0 1em 1em 0;
+}
+
+footer {
+	text-align: center;
+	font-family: Monaco, monospace;
+}
+
+#banner {
+	text-align: center;
+}
+
+#banner img {
+	width: 65%;
+}
+
+#container {
+	width: 65%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFFFFF;
+	border-radius: 0.5em;
+}
+
+h2 {
+	text-align: center;
+	font-family: Arial, sans-serif;
+}
+
+p {
+	text-align: center;
+	font-family: Arial, sans-serif;
+}
+
+article {
+	background-color: #54a1cf;
+	width: 50%;
+	float: right;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 1em 0 0 1em;
+}
+
+article p {
+	text-align: center;
+}
+
+.bandimg {
+	width: 30%;
+	clear: left;
+}
+
+aside {
+	font-family: Arial, sans-serif;
+	font-style: italic;
+}
+
+.albumimg {
+	width: 19.8em;
+}
+
+li {
+	font-family: Arial, sans-serif;
+}
+
+iframe {
+	text-align: center;
+	border: 0;
+}
+
+h3 {
+	text-align: center;
+	font-family: Arial, sans-serif;
+}
+
+main {
+	margin-top: -1em;
+}
